@@ -45,38 +45,18 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD2tDdP1lEr8jlN9LBWL3lRuGKOBowCf1I',
-    appId: '1:921031692290:web:9fa4bb694bb15133c1171b',
-    messagingSenderId: '921031692290',
-    projectId: 'intelliassist-780a0',
-    authDomain: 'intelliassist-780a0.firebaseapp.com',
-    storageBucket: 'intelliassist-780a0.appspot.com',
-    measurementId: 'G-62XLS8PCBX',
+    
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCD1GOkIsdsZwSJAdPR5ig1eqcUz40_kQY',
-    appId: '1:921031692290:android:c19f85ba991cacacc1171b',
-    messagingSenderId: '921031692290',
-    projectId: 'intelliassist-780a0',
-    storageBucket: 'intelliassist-780a0.appspot.com',
+    
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDbO8YHuDVlAhGLJut7nfL8pUYJ7UuCQPU',
-    appId: '1:921031692290:ios:905e3c26d850d3abc1171b',
-    messagingSenderId: '921031692290',
-    projectId: 'intelliassist-780a0',
-    storageBucket: 'intelliassist-780a0.appspot.com',
-    iosBundleId: 'com.example.intelliassist',
+    
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDbO8YHuDVlAhGLJut7nfL8pUYJ7UuCQPU',
-    appId: '1:921031692290:ios:46963d61828b2d5cc1171b',
-    messagingSenderId: '921031692290',
-    projectId: 'intelliassist-780a0',
-    storageBucket: 'intelliassist-780a0.appspot.com',
-    iosBundleId: 'com.example.intelliassist.RunnerTests',
+    
   );
 }
