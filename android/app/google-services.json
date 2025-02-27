@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "921031692290",
+    "project_id": "intelliassist-780a0",
+    "storage_bucket": "intelliassist-780a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921031692290:android:c19f85ba991cacacc1171b",
+        "android_client_info": {
+          "package_name": "com.example.intelliassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921031692290-g16ovtqldk9lfh9ag9g9jhtha8ohmel4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intelliassist",
+            "certificate_hash": "80be925c2551d81b39273d6b4802d85e2c15f2f7"
+          }
+        },
+        {
+          "client_id": "921031692290-arutcfdnqh6bjinm8jru582a1tphmhhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD1GOkIsdsZwSJAdPR5ig1eqcUz40_kQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921031692290-arutcfdnqh6bjinm8jru582a1tphmhhv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921031692290-0s5rl7ohv919g48iqvkr61ns0b89nu33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.intelliassist.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
